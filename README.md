@@ -1,0 +1,1 @@
+This repository contains all the files needed to build an Arch Linux Package.  If you just want to patch the source of ZSNES for LIRC, you only need the patch files.  See the readme.lirc file for instructions on how to configure LIRC support.
